@@ -25,6 +25,9 @@
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151017213903.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
