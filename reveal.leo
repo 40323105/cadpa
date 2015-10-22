@@ -26,6 +26,7 @@
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20151017213903.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151022193547.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
@@ -341,7 +342,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022192115.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151022192115.1"><vh>@clean simplest4.html</vh>
 <v t="leo.20151022192115.2"><vh>檔案說明</vh></v>
 <v t="leo.20151022192115.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151022192115.4" a="E"><vh>body 標註</vh>
@@ -354,6 +355,22 @@
 </v>
 </v>
 <v t="leo.20151022192115.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151022193646.1" a="E"><vh>@clean simplest5.html</vh>
+<v t="leo.20151022193646.2"><vh>檔案說明</vh></v>
+<v t="leo.20151022193646.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151022193646.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151022193646.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151022193646.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151022193646.7"><vh>介紹</vh></v>
+<v t="leo.20151022193646.8"><vh>第六周</vh></v>
+<v t="leo.20151022193646.9"><vh>第六周心得</vh></v>
+<v t="leo.20151022193646.10"><vh>評分</vh></v>
+</v>
+</v>
+<v t="leo.20151022193646.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2237,6 +2254,105 @@ jupyter notebook
         還幫我們更改了notebook.py,這樣以後就不用再打開來改了,而這周也開始了實物測繪,雖然我們派了2個人去,
         但好像沒什麼進展,跟我的Leo一樣阿,一直失敗,這周我也學習到怎麼將投影片一周一周的分開,其實不難,
         我覺得我把它想得太複雜了,其實明白它的道理就OK了,不過遠端真的跑得還蠻久的耶..... &lt;/p&gt;
+        
+    &lt;/section&gt;
+				
+</t>
+<t tx="leo.20151022193646.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151022193646.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;1.第六周:75&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151022193646.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151022193646.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151022193646.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151022193646.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151022193646.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151022193646.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151022193646.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;介紹自己&lt;/h2&gt;
+        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;	
+        &lt;h2&gt;班級&lt;/h2&gt;
+        &lt;p&gt;四設計二甲&lt;/p&gt;	
+    &lt;/section&gt;        
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151022193646.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業任務六&lt;/h2&gt;
+    &lt;p&gt;筆記(第六周)&lt;/p&gt;
+    &lt;p&gt;1.延續上禮拜未完成的投影片
+          2.派兩個人開始實物測繪---腳踏車
+          3.已建立班上協同倉儲,要先建立協同倉儲者
+          4.git clone 2015fallcadpa(可先到tmp後再clone)
+          5.切換分支
+          6.資料夾裡有user,複製9999,貼上並將它改成自己的學號,之後點進去
+          7.刪除有關9999的資料(一個是網址檔,一個是在pelican裡的content,有兩個檔案都刪掉)
+          8.在Leo複製path9999,一樣改學號
+          9.有關9999全改成自己的學號(在自己的path裡面改喔!!!!)
+          10.按path 40323105點user-pelican就可以囉~~~~~
+&lt;/p&gt;
+          
+&lt;/section&gt;</t>
+<t tx="leo.20151022193646.9">&lt;section&gt;
+        &lt;h2&gt;第六周心得&lt;/h2&gt;
+        &lt;p&gt;終於又到了快要期中考的時候了,不意外這次也有班上協同倉儲,只是跟之前不一樣的是,這一次要用
+        Leo了,在大一下時只是傳一個檔案所以還好,但是人們面對不熟的東西時會更覺得有恐懼,因為我還沒
+        建立協同者所以我看著別人做,我們組長有成功,但它在教我時有人問問題,所以她過去看,發現為何Leo打不開
+        ,原來原因是我們要複製path9999,貼上後改成我們的,而有人直接在path9999裡修改資料,以至於新版跟舊版發生
+        衝突了,一開始可能一到兩個人錯還沒關係,但是一群人同時用就有問題了,當有人比我們還快push時,我們只好
+        pull下來後再重新推一次,但是前面的人錯了導致我們推下來的資料也是錯的,積少成多應該就是這個意思吧,
+        雖然最後有將程式修改回來,但我相信現在要叫我自己一個人弄還真的有點不敢了,我超怕我就是下一個將
+        Leo  弄壞的人 &lt;/p&gt;
         
     &lt;/section&gt;
 				
