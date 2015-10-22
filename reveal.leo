@@ -325,7 +325,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022191648.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="leo.20151022191648.1"><vh>@clean simplest3.html</vh>
 <v t="leo.20151022191648.2"><vh>檔案說明</vh></v>
 <v t="leo.20151022191648.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151022191648.4" a="E"><vh>body 標註</vh>
@@ -338,6 +338,22 @@
 </v>
 </v>
 <v t="leo.20151022191648.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151022192115.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="leo.20151022192115.2"><vh>檔案說明</vh></v>
+<v t="leo.20151022192115.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151022192115.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151022192115.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151022192115.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151022192115.7"><vh>介紹</vh></v>
+<v t="leo.20151022192115.8"><vh>第五周</vh></v>
+<v t="leo.20151022192115.9"><vh>第五周心得</vh></v>
+<v t="leo.20151022192115.10"><vh>評分</vh></v>
+</v>
+</v>
+<v t="leo.20151022192115.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2132,6 +2148,95 @@ jupyter notebook
 <t tx="leo.20151022191648.9">&lt;section&gt;
         &lt;h2&gt;第四周心得&lt;/h2&gt;
         &lt;p&gt;想要改標題,但是就是找不到notebook.py這個檔案,所以想說先打心得,打到一半想先傳上去遠端,但是連試兩次都沒有成功,程式也沒問我的username和password,原來是因為網路斷線,它無法找到我的網址,以至於無法git push ,這一次斷線讓我發現,原來git push上去時需要網路,在之前我都認為不需要網路就可以更新了,學到了一個重點阿,而這禮拜也開始了實物測繪,兩個人去測量,剩下的人在教室用投影片,那時候我就是在弄投影片,而當時我因為架錯網站想把它刪掉,忘記要用git rm刪掉了,直接在資料夾裡面刪除,以至於我的近端雖然刪掉了,但是遠端卻還保留了資料,有連結點但是點進去是404,後來怎麼救還是救不回來,於是再開啟了新的倉儲,但是我又犯了一個錯誤,我在leo裡先按了pelican再存檔,我一直認為這兩個步驟顛倒沒關係,但其實有差,逼不得已只好再開一個新的倉儲,有人告訴我說,先在近端看,成功了在push上去,從這次的經驗後,我再也不敢先git add 了 &lt;/p&gt;
+        
+    &lt;/section&gt;
+				
+</t>
+<t tx="leo.20151022192115.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151022192115.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;1.第五周:70&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151022192115.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151022192115.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151022192115.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151022192115.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151022192115.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151022192115.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151022192115.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;介紹自己&lt;/h2&gt;
+        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;	
+        &lt;h2&gt;班級&lt;/h2&gt;
+        &lt;p&gt;四設計二甲&lt;/p&gt;	
+    &lt;/section&gt;        
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151022192115.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業任務五&lt;/h2&gt;
+    &lt;p&gt;筆記(第五周)&lt;/p&gt;
+    &lt;p&gt;1.延續上禮拜未完成的投影片
+          2.派兩個人開始實物測繪
+          3.reveal有更新過,並且有新的reavel,裡面只更改資料,如
+           bootstrap3改成octopress
+          &lt;/p&gt;
+          
+&lt;/section&gt;</t>
+<t tx="leo.20151022192115.9">&lt;section&gt;
+        &lt;h2&gt;第五周心得&lt;/h2&gt;
+        &lt;p&gt;這禮拜老師有更新reaveal2,想說這之間有甚麼不同,原來是bootstrap3改成octopress,其餘沒什麼變,另外老師
+        還幫我們更改了notebook.py,這樣以後就不用再打開來改了,而這周也開始了實物測繪,雖然我們派了2個人去,
+        但好像沒什麼進展,跟我的Leo一樣阿,一直失敗,這周我也學習到怎麼將投影片一周一周的分開,其實不難,
+        我覺得我把它想得太複雜了,其實明白它的道理就OK了,不過遠端真的跑得還蠻久的耶..... &lt;/p&gt;
         
     &lt;/section&gt;
 				
