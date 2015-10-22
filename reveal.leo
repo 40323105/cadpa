@@ -285,7 +285,8 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>介紹</vh></v>
 <v t="amd.20150915211351.9"><vh>第一周</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="amd.20150915211351.12"><vh>第一周心得</vh></v>
+<v t="leo.20151022190454.1"><vh>評分</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -1636,10 +1637,11 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
-&lt;/section&gt;
+        &lt;h2&gt;第一周心得&lt;/h2&gt;
+        &lt;p&gt;
+              第一周就開始使用了github網站,開始創建了分支,以及如何變換分支,這已經是難得聽得懂的一周了,雖然很久沒有使用python來做作業了,但至少基本的還聽得懂拉,第一次用先用個google連結,有成功唷~~~~~非常難得,這一周可能是最認真的一堂了.....&lt;/p&gt;
+        
+    &lt;/section&gt;
 				
 </t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1829,6 +1831,11 @@ jupyter notebook
     &lt;p&gt;自主開放學習&lt;/p&gt;
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20151022190454.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;1.第一周:65&lt;/p&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
