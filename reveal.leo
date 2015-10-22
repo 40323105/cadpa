@@ -284,7 +284,7 @@
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>介紹</vh></v>
-<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="amd.20150915211351.9"><vh>第一周</vh></v>
 <v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
 </v>
 </v>
@@ -1681,11 +1681,22 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
-&lt;/section&gt;
-				
+    &lt;h2&gt;筆記(第一周)&lt;/h2&gt;
+    &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
+        2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
+        3.git branch 索引自己的分支&lt;/p&gt;
+        4.git branch gh-pages (建立分支)
+        5.git branch (查分支)
+        6.git checkout gh-pages (切換分支)
+好了之後將reaval的檔案download下來之後,除了   Remade之外其他複製
+        到自己的資料夾
+        輸入指令
+        1.git add -A
+        2.git commit -m "1001"
+        3.git push origin gh-pages
+        4.輸入自己的帳號及密碼
+        5.確認是否成功,輸入網址即可
+&lt;/section&gt;	
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
