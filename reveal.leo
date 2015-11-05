@@ -375,7 +375,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029132735.1"><vh>@clean simplest6.html</vh>
+<v t="leo.20151029132735.1" a="E"><vh>@clean simplest6.html</vh>
 <v t="leo.20151029132735.2"><vh>檔案說明</vh></v>
 <v t="leo.20151029132735.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151029132735.4" a="E"><vh>body 標註</vh>
@@ -2381,7 +2381,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151029132735.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第七周:&lt;/p&gt;
+    &lt;p&gt;1.第七周:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151029132735.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2446,13 +2446,20 @@ jupyter notebook
 <t tx="leo.20151029132735.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務七&lt;/h2&gt;
     &lt;p&gt;筆記(第七周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;1.教同學怎麼將倉儲裡面的Leo做更改
+           2.教同學怎麼在班級倉儲裡建立使用者
+           3.我講到沒聲音了~~~~~~
+           4.教如何解決Leo衝突
+        
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151029132735.9">&lt;section&gt;
         &lt;h2&gt;第七周心得&lt;/h2&gt;
-        &lt;p&gt; &lt;/p&gt;
+        &lt;p&gt;繼續教同學怎麼創建自己的倉儲並且將倉儲的Leo更改,以及在班級的倉儲
+        創建自己的資料夾和把它push上去,雖然在班級倉儲中Leo已經改好了, 但是因為
+        有人先推上去了,所以要再pull下來,但是當pull下來時,把已經掛掉的Leo也弄下來
+        了,以至於再次失敗.....想說應該有解決方法,但是不知如何動手,之後有人就有教我怎麼修改,但那是上完課之後的事,作法第8周再PO~~~~我教到失聲了...&lt;/p&gt;
         
     &lt;/section&gt;
 				
