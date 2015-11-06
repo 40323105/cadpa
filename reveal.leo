@@ -393,7 +393,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105124304.1"><vh>@clean simplest7.html</vh>
+<v t="leo.20151105124304.1" a="E"><vh>@clean simplest7.html</vh>
 <v t="leo.20151105124304.2"><vh>檔案說明</vh></v>
 <v t="leo.20151105124304.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151105124304.4" a="E"><vh>body 標註</vh>
@@ -409,7 +409,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106212514.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo.20151106212514.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20151106212514.2"><vh>檔案說明</vh></v>
 <v t="leo.20151106212514.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151106212514.4" a="E"><vh>body 標註</vh>
@@ -2505,7 +2505,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151105124304.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第八周:&lt;/p&gt;
+    &lt;p&gt;1.第八周:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151105124304.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2570,16 +2570,34 @@ jupyter notebook
 <t tx="leo.20151105124304.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務八&lt;/h2&gt;
     &lt;p&gt;筆記(第八周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;1.開始進入班級協同倉儲裡改自己的檔案
+          2.解決衝突
+             (1)先將Leo檔打開至SciTE
+             (2)尋找&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+             (3)因為有新版本及舊版本,必須要將舊版本的刪掉
+             (4)它會有&lt;x7+&gt;x7,把它們通通刪掉
+             (5)他們前面還會有一些等號也要把它刪掉
+             (6)儲存之後再重開一次檔案就好囉
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151105124304.9">&lt;section&gt;
-        &lt;h2&gt;第八周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
-        
+    &lt;section&gt;
+        &lt;h2&gt;第八周心得分享&lt;/h2&gt;
+        &lt;p&gt;時間過得很快,真的要交期中報告了,但是在學校剛在近端改好後
+    馬上就被同學拉過去,以至於本周進度幾乎沒有......後來決定自己在宿舍做了,想說這時間應該不會有人使用2015fallcadpa,但是當我push第二次的時候
+居然有人比我先push上去了,所以我必須先打git pull origin gh-pages,把新版拉下來後再推回去
     &lt;/section&gt;
-				
+    &lt;section&gt;
+目前成功了,推第三次的時候,可能我與另一個同學同時推,它比我快,以至於我們發生了衝突,想說先pull下來再重新推,但還是失敗了,於是請教了祐生(TA)教我怎麼解決衝突,雖然有人也有教過我,但沒有實例果然還是想像不出來啊,經過這次的教導後,我知道怎麼改了,其實還蠻簡單的耶~~~~但是沒有把解決過程截圖其實蠻可惜的....
+    &lt;/section&gt;
+    &lt;section&gt;
+剛剛才發現,嵌入影片不是在Link而是在Embed的地方,將程式碼複製後貼上,再做稍微修改就可以囉~~~~
+
+&lt;/p&gt;
+    &lt;/section&gt;
+  
+&lt;/section&gt;	
 </t>
 <t tx="leo.20151106212514.1">@language xml
 @tabwidth -4
