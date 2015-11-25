@@ -433,8 +433,8 @@
 <v t="leo.20151125205022.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151125205022.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151125205022.7"><vh>介紹</vh></v>
-<v t="leo.20151125205022.8"><vh>第九周</vh></v>
-<v t="leo.20151125205022.9"><vh>第九周心得</vh></v>
+<v t="leo.20151125205022.8"><vh>第十周</vh></v>
+<v t="leo.20151125205022.9"><vh>第十周心得</vh></v>
 <v t="leo.20151125205022.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -2623,7 +2623,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151106212514.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第八周:&lt;/p&gt;
+    &lt;p&gt;1.第九周:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151106212514.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2688,13 +2688,14 @@ jupyter notebook
 <t tx="leo.20151106212514.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務九&lt;/h2&gt;
     &lt;p&gt;筆記(第九周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;準備交期中報告拉~~~~~做之前沒做完的報告~~~加上幫人解決衝突
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151106212514.9">&lt;section&gt;
         &lt;h2&gt;第九周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;這一周是段考周~~~要交報告了......所以大家開始在詢問要怎麼做,不意外地出現了衝突
+        ,教了一些人如何改之後,衝突就減少了,大部份的人知道如果很多人做的話要先pull比較令人安心,不枉費教了那麼久,但是我因為提早做完,所以當我上去看班級倉儲的時候,有些人直接複製我的,連改一下都不改,這讓我非常的生氣!!!!!後來有人跟我道歉,並且說會改,才讓我氣消~~~~~這禮拜是別人一直問的一周....&lt;/p&gt;
         
     &lt;/section&gt;
 				
