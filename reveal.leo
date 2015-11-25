@@ -2741,7 +2741,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205022.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十周:&lt;/p&gt;
+    &lt;p&gt;1.第十周:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205022.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2806,13 +2806,15 @@ jupyter notebook
 <t tx="leo.20151125205022.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十&lt;/h2&gt;
     &lt;p&gt;筆記(第十周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;段考周~~~~報告禮拜三(11/18)之前要交
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205022.9">&lt;section&gt;
         &lt;h2&gt;第十周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;段考周阿..幸好這一門課沒有考試,不然我可能就是被當掉的其中一員,好險之前花了
+        不少時間做Leo,現在才能這麼安心地準備其他科目....也幸好沒有人把我做的東西直接蓋掉
+        ,不然我真的會哭...&lt;/p&gt;
         
     &lt;/section&gt;
 				
@@ -2824,7 +2826,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205923.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十一周:&lt;/p&gt;
+    &lt;p&gt;1.第十一周:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205923.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2889,13 +2891,19 @@ jupyter notebook
 <t tx="leo.20151125205923.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十一&lt;/h2&gt;
     &lt;p&gt;筆記(第十一周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;1.用Creo畫零件
+          2.組員分配零件並且把它組起來
+          3.這周有點名
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205923.9">&lt;section&gt;
         &lt;h2&gt;第十一周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;難得的點名周耶~~~可能是運動會的關係很多人都沒來,這一周要用Creo畫圖拉,第一次
+        接觸這個軟體阿,感覺跟slideworks有點像阿,幸好是畫比較簡單的,畫完一個零件雖然花了
+        很久的時間,但是第二個畫的就很快了,其他組員也很花了很多時間摸索,畫好了要組起來,發現
+        我們有檔名一樣的,重複檔名的話很像不能放進去,所以好像有幾個要重畫了,不過這週至少
+        有新的進度拉~~~~&lt;/p&gt;
         
     &lt;/section&gt;
 				
