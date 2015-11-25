@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-13T13:24:00+08:00</updated><entry><title>電腦輔助設計與實習 作業10</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-13T13:24:00+08:00</updated><author><name>40323105</name></author><id>tag:coursemdetw.github.io,2015-11-13:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業十內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-26T13:30:00+08:00</updated><entry><title>電腦輔助設計與實習 作業12</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-11-26T13:30:00+08:00</updated><author><name>40323105</name></author><id>tag:coursemdetw.github.io,2015-11-26:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業十二內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;作業十二投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 作業11</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-11-20T13:58:00+08:00</updated><author><name>40323105</name></author><id>tag:coursemdetw.github.io,2015-11-20:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業十一內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest10.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest10.html" target="_blank"&gt;作業十一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 作業10</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-13T13:24:00+08:00</updated><author><name>40323105</name></author><id>tag:coursemdetw.github.io,2015-11-13:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;p&gt;以下為作業十內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
