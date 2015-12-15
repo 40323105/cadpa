@@ -34,6 +34,8 @@
 <v t="leo.20151125204918.1"><vh>@edit 2015cphww10.md</vh></v>
 <v t="leo.20151125205740.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo.20151125205747.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20151215192801.1"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20151215193049.1"><vh>@edit 2015cphww14.md</vh></v>
 <v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -444,7 +446,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205923.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="leo.20151125205923.1"><vh>@clean simplest10.html</vh>
 <v t="leo.20151125205923.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205923.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205923.4" a="E"><vh>body 標註</vh>
@@ -460,7 +462,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205931.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo.20151125205931.1"><vh>@clean simplest11.html</vh>
 <v t="leo.20151125205931.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205931.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205931.4" a="E"><vh>body 標註</vh>
@@ -473,6 +475,38 @@
 </v>
 </v>
 <v t="leo.20151125205931.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151215192912.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20151215192912.2"><vh>檔案說明</vh></v>
+<v t="leo.20151215192912.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151215192912.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151215192912.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151215192912.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151215192912.7"><vh>介紹</vh></v>
+<v t="leo.20151215192912.8"><vh>第十三周</vh></v>
+<v t="leo.20151215192912.9"><vh>第十三周心得</vh></v>
+<v t="leo.20151215192912.10"><vh>評分</vh></v>
+</v>
+</v>
+<v t="leo.20151215192912.11"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151215193004.1" a="E"><vh>@clean simplest13.html</vh>
+<v t="leo.20151215193004.2"><vh>檔案說明</vh></v>
+<v t="leo.20151215193004.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151215193004.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151215193004.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151215193004.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151215193004.7"><vh>介紹</vh></v>
+<v t="leo.20151215193004.8"><vh>第十四周</vh></v>
+<v t="leo.20151215193004.9"><vh>第十四周心得</vh></v>
+<v t="leo.20151215193004.10"><vh>評分</vh></v>
+</v>
+</v>
+<v t="leo.20151215193004.11"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2988,6 +3022,176 @@ jupyter notebook
 <t tx="leo.20151125205931.9">&lt;section&gt;
         &lt;h2&gt;第十二周心得&lt;/h2&gt;
         &lt;p&gt;這一周好像跟上週一樣沒有甚麼變化,一樣分工合作,有人畫零件,有人組合,有人研究LEO,大家分工合作做事才會快押.....而我也負責拍了影片~~~只不過斷斷續續地怕同學看不懂我在幹甚麼阿...&lt;/p&gt;
+        
+    &lt;/section&gt;
+				
+</t>
+<t tx="leo.20151215192912.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151215192912.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;1.第十三周:75&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151215192912.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151215192912.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151215192912.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151215192912.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151215192912.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151215192912.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151215192912.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;介紹自己&lt;/h2&gt;
+        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;	
+        &lt;h2&gt;班級&lt;/h2&gt;
+        &lt;p&gt;四設計二甲&lt;/p&gt;	
+    &lt;/section&gt;        
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151215192912.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業任務十三&lt;/h2&gt;
+    &lt;p&gt;筆記(第十三周)&lt;/p&gt;
+    &lt;p&gt;1.教大家怎麼開LEO,因為近端的fix不能用
+          2.繼續組零件
+          3.稍微講解Jupyter的使用方法
+&lt;/p&gt;
+          
+&lt;/section&gt;</t>
+<t tx="leo.20151215192912.9">&lt;section&gt;
+        &lt;h2&gt;第十三周心得&lt;/h2&gt;
+        &lt;p&gt;近端的fix不能用了真的是有點麻煩阿...幸好老師教了另一種方法也可以開啟,但是我按照步驟做了居然打不開,逼不得已的情況下只好重開機拉,然後再按步驟重新做一次,終於可以了.....然後為了拍影片再重新來一遍,感覺自己都快背起來了.....而零件都畫好了也組好了~~~雙喜臨門阿~~~&lt;/p&gt;
+        
+    &lt;/section&gt;
+				
+</t>
+<t tx="leo.20151215193004.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151215193004.10">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;自評分數&lt;/h2&gt;
+    &lt;p&gt;1.第十四周:75&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20151215193004.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151215193004.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151215193004.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151215193004.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151215193004.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151215193004.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151215193004.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;介紹自己&lt;/h2&gt;
+        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;	
+        &lt;h2&gt;班級&lt;/h2&gt;
+        &lt;p&gt;四設計二甲&lt;/p&gt;	
+    &lt;/section&gt;        
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151215193004.8">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業任務十四&lt;/h2&gt;
+    &lt;p&gt;筆記(第十四周)&lt;/p&gt;
+    &lt;p&gt;1.開始講解如何建立組別倉儲
+          2.要記得錄影片押
+          3.這周也點名了
+&lt;/p&gt;
+          
+&lt;/section&gt;</t>
+<t tx="leo.20151215193004.9">&lt;section&gt;
+        &lt;h2&gt;第十四周心得&lt;/h2&gt;
+        &lt;p&gt;歐~~開始建立組別倉儲了....真的是..有聽沒有懂!!!!!雖然老師一邊做一邊錄影又一邊實際操作,但還是不懂啊~~~~我們這組先做,一個你不懂我也不懂的情況下建立了組別的節點,後來發生了衝突,原來我們一開始就做錯了,應該是我們必須在組長的資料夾裡新增自己組的LEO,這樣才對~~~後來好像有點懂了他的意思了~~~接下來就是要交報告的時候了....&lt;/p&gt;
         
     &lt;/section&gt;
 				
