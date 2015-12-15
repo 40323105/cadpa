@@ -412,7 +412,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106212514.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo.20151106212514.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20151106212514.2"><vh>檔案說明</vh></v>
 <v t="leo.20151106212514.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151106212514.4" a="E"><vh>body 標註</vh>
@@ -2915,7 +2915,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205931.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十二周:&lt;/p&gt;
+    &lt;p&gt;1.第十二周:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205931.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2980,13 +2980,14 @@ jupyter notebook
 <t tx="leo.20151125205931.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十二&lt;/h2&gt;
     &lt;p&gt;筆記(第十二周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;1.組合零件
+          2.提到要開始建立組別的倉儲
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205931.9">&lt;section&gt;
         &lt;h2&gt;第十二周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;這一周好像跟上週一樣沒有甚麼變化,一樣分工合作,有人畫零件,有人組合,有人研究LEO,大家分工合作做事才會快押.....而我也負責拍了影片~~~只不過斷斷續續地怕同學看不懂我在幹甚麼阿...&lt;/p&gt;
         
     &lt;/section&gt;
 				
