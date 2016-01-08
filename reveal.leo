@@ -401,7 +401,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105124304.1" a="E"><vh>@clean simplest7.html</vh>
+<v t="leo.20151105124304.1"><vh>@clean simplest7.html</vh>
 <v t="leo.20151105124304.2"><vh>檔案說明</vh></v>
 <v t="leo.20151105124304.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151105124304.4" a="E"><vh>body 標註</vh>
@@ -433,7 +433,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205022.1" a="E"><vh>@clean simplest9.html</vh>
+<v t="leo.20151125205022.1"><vh>@clean simplest9.html</vh>
 <v t="leo.20151125205022.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205022.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205022.4" a="E"><vh>body 標註</vh>
@@ -481,7 +481,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151215192912.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20151215192912.1"><vh>@clean simplest12.html</vh>
 <v t="leo.20151215192912.2"><vh>檔案說明</vh></v>
 <v t="leo.20151215192912.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151215192912.4" a="E"><vh>body 標註</vh>
@@ -513,7 +513,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151225215116.1"><vh>@clean simplest14.html</vh>
+<v t="leo.20151225215116.1" a="E"><vh>@clean simplest14.html</vh>
 <v t="leo.20151225215116.2"><vh>檔案說明</vh></v>
 <v t="leo.20151225215116.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151225215116.4" a="E"><vh>body 標註</vh>
@@ -529,7 +529,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151231125316.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20151231125316.1" a="E"><vh>@clean simplest15.html</vh>
 <v t="leo.20151231125316.2"><vh>檔案說明</vh></v>
 <v t="leo.20151231125316.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151231125316.4" a="E"><vh>body 標註</vh>
@@ -2709,9 +2709,9 @@ jupyter notebook
     &lt;p&gt;1.開始進入班級協同倉儲裡改自己的檔案
           2.解決衝突
              (1)先將Leo檔打開至SciTE
-             (2)尋找&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+             (2)尋找7個小括號
              (3)因為有新版本及舊版本,必須要將舊版本的刪掉
-             (4)它會有&lt;x7+&gt;x7,把它們通通刪掉
+             (4)它會有7個向左小括號+7個向右小括號,把它們通通刪掉
              (5)他們前面還會有一些等號也要把它刪掉
              (6)儲存之後再重開一次檔案就好囉
 &lt;/p&gt;
@@ -3493,13 +3493,14 @@ jupyter notebook
 <t tx="leo.20160105193938.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十七&lt;/h2&gt;
     &lt;p&gt;筆記(第十七周)&lt;/p&gt;
-    &lt;p&gt;
+    &lt;p&gt;1.繼續使用onshape 
+          2.開始自我評分
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20160105193938.9">&lt;section&gt;
         &lt;h2&gt;第十七周心得&lt;/h2&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;這周開始自我打分數,給自己打了80分,覺得自己做的還OK,影片都有拍,除了一部分截圖外,不過在用onshape組裝時真的是困難重重阿,要不就合不起來,要不就是錄影軟體掛了,幸好最後都完成了~~~再來就是段考周囉~~~&lt;/p&gt;
         
     &lt;/section&gt;
 				
